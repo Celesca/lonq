@@ -1,0 +1,1 @@
+"""LONG FastAPI application package."""
